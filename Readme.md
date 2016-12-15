@@ -44,7 +44,7 @@
 
 ### 2. mobile backendにファイルストアにデータをアップロードし、公開ファイル設定を行う
 
-[お知らせ機能のサンプルプコード：UnityNewsWebViewプロジェクト](https://github.com/hounenhounen/UnityNewsWebView)をDLし,Fileフォルダないのファイルを全てニフティクラウドmobile backendのファイルストアにアップロードします。アップロードする際は下記の画面が表示されます。その後、公開ファイル設定を行ってください。
+[お知らせ機能のサンプルプコード:WebviewNewsプロジェクト](https://github.com/hounenhounen/WeviewNews)をDLし,Fileフォルダないのファイルを全てニフティクラウドmobile backendのファイルストアにアップロードします。アップロードする際は下記の画面が表示されます。その後、公開ファイル設定を行ってください。
 
 ![画像](./readme-img/uploadFile.png)
 
